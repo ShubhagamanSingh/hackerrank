@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="HackerRank Python solutions — code, learn, share" width="100%" />
+  <img src="assets/banner.svg" alt="HackerRank solutions — code, learn, share" width="100%" />
 </div>
 
-# HackerRank Python Solutions
+# HackerRank Solutions
 
-Readable Python solutions to [HackerRank](https://www.hackerrank.com/profile/singhshubhagaman) challenges, with direct links to each problem and short notes on the approach. The solutions are grouped by category and difficulty so you can find a challenge quickly.
+Readable solutions to [HackerRank](https://www.hackerrank.com/profile/singhshubhagaman) challenges, with direct links to each problem and short notes on the approach. Browse by category or language to find a challenge quickly.
 
-<p>
-  <img src="assets/python-badge.svg" alt="Python" height="30" />
-  <img src="assets/algorithms-badge.svg" alt="Algorithms" height="30" />
-</p>
+**Jump to:** [Challenge index](#challenge-index) · [Solutions by language](#solutions-by-language) · [Approach notes](#approach-notes) · [Connect](#connect)
 
-**Jump to:** [Challenge index](#challenge-index) · [Approach notes](#approach-notes) · [Connect](#connect)
+## Browse by category
+
+<a href="algorithms/"><img src="assets/category-algorithms.svg" alt="Algorithms solutions" height="30" /></a> <a href="artificial-intelligence/"><img src="assets/category-artificial-intelligence.svg" alt="Artificial Intelligence solutions" height="30" /></a> <a href="data-structures/"><img src="assets/category-data-structures.svg" alt="Data Structures solutions" height="30" /></a>
+
+## Browse by language
+
+<a href="#language-py"><img src="assets/language-py.svg" alt="Python solutions" height="30" /></a>
 
 ## Challenge index
 
@@ -24,12 +27,25 @@ Readable Python solutions to [HackerRank](https://www.hackerrank.com/profile/sin
 | 005 | [N Puzzle](https://www.hackerrank.com/challenges/n-puzzle/problem) | Artificial Intelligence | Hard | [Python solution](artificial-intelligence/hard/n-puzzle/solution.py) |
 | 006 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Data Structures | Hard | [Python solution](data-structures/hard/crush/solution.py) |
 
+Each challenge title opens the original HackerRank problem. The solution link opens the corresponding code file in this repository.
+
+## Solutions by language
+
+<a id="language-py"></a>
+
+### Python solutions
+
+- [Between Two Sets](algorithms/easy/between-two-sets/) · [Code](algorithms/easy/between-two-sets/solution.py)
+- [Breaking the Records](algorithms/easy/breaking-best-and-worst-records/) · [Code](algorithms/easy/breaking-best-and-worst-records/solution.py)
+- [Picking Numbers](algorithms/easy/picking-numbers/) · [Code](algorithms/easy/picking-numbers/solution.py)
+- [Forming a Magic Square](algorithms/medium/magic-square-forming/) · [Code](algorithms/medium/magic-square-forming/solution.py)
+- [N Puzzle](artificial-intelligence/hard/n-puzzle/) · [Code](artificial-intelligence/hard/n-puzzle/solution.py)
+- [Array Manipulation](data-structures/hard/crush/) · [Code](data-structures/hard/crush/solution.py)
+
 ## Approach notes
 
 - **Between Two Sets:** Find the least common multiple of the first array and the greatest common divisor of the second. Count the multiples of the first value that divide the second.
 - **Breaking the Records:** Keep track of the highest and lowest score seen so far, updating the two counters whenever a new record appears.
-
-Each challenge title opens the original HackerRank problem. The solution link opens the corresponding code file in this repository.
 
 ## About the author
 
