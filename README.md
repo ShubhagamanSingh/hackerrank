@@ -51,7 +51,11 @@ Each challenge title opens the original HackerRank problem. The solution link op
 
 <img align="right" src="https://shubhagaman.in/images/mpp.jpg" alt="Portrait of Shubhagaman Singh" width="160" />
 
-I'm **Shubhagaman Singh**, a Junior Research Assistant at Sharda University. I build AI, full-stack, mobile, and IoT projects, and I use coding challenges to keep sharpening my problem-solving skills. You can see more of my work on my [portfolio](https://shubhagaman.in/).
+I'm **Shubhagaman Singh**, a Junior Research Assistant at Sharda University. I contribute to a research project funded by CST-UP, supporting its software engineering and AI and data work. My background includes a B.Tech in Computer Science and a diploma in Computer Science and Engineering.
+
+I build across AI, web, mobile, and IoT. My [portfolio](https://shubhagaman.in/) includes projects such as **Algo Singh**, an algorithm visualization tool, and **ASHWINI**, which spans AI, web, and mobile development. I also work with Python, Java, C/C++, and web technologies, bringing the same problem-solving approach to both research and personal projects.
+
+I created this repository to organize the HackerRank challenges I solve and share my code with other developers. The challenge links let you try each problem yourself, while the solutions show how I approached it. I hope they help you compare ideas and find a useful starting point for your own solution.
 
 <br clear="right" />
 
