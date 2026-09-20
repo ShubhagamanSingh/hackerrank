@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">HackerRank Python Solutions</title>
+  <desc id="description">A dark navy banner with green accents and an illustrated code window.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09151d"/>
+      <stop offset="0.58" stop-color="#102633"/>
+      <stop offset="1" stop-color="#0c1b26"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67f3aa"/>
+      <stop offset="1" stop-color="#50d4d5"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#9ee8d3" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="990" cy="80" r="100" fill="#4be9ad" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="105" cy="285" r="105" fill="#49bce0" opacity="0.12" filter="url(#glow)"/>
+  <path d="M 42 47 H 101" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="44" y="102" fill="#8ddfc4" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">CODE · LEARN · SHARE</text>
+  <text x="40" y="176" fill="#f5faf9" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750">HackerRank</text>
+  <text x="40" y="241" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="61" font-weight="750">Solutions</text>
+  <text x="44" y="282" fill="#c4d8d5" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1">PYTHON   /   ALGORITHMS   /   PROBLEM SOLVING</text>
+  <g transform="translate(755 49)">
+    <rect width="393" height="224" rx="16" fill="#07151c" stroke="#6be4ba" stroke-opacity="0.3" stroke-width="2"/>
+    <rect width="393" height="40" rx="16" fill="#17303a"/>
+    <path d="M 0 40 H 393" stroke="#6be4ba" stroke-opacity="0.22"/>
+    <circle cx="24" cy="21" r="5" fill="#ff857e"/>
+    <circle cx="43" cy="21" r="5" fill="#ffd27a"/>
+    <circle cx="62" cy="21" r="5" fill="#68e0a5"/>
+    <text x="290" y="27" fill="#9ab9b8" font-family="Consolas, monospace" font-size="12">solution.py</text>
+    <text x="24" y="77" fill="#67828b" font-family="Consolas, monospace" font-size="17">01</text>
+    <text x="58" y="77" fill="#9de8c9" font-family="Consolas, monospace" font-size="17">def</text>
+    <text x="97" y="77" fill="#e2f4f0" font-family="Consolas, monospace" font-size="17">solve(problem):</text>
+    <text x="24" y="112" fill="#67828b" font-family="Consolas, monospace" font-size="17">02</text>
+    <text x="84" y="112" fill="#d9e8a9" font-family="Consolas, monospace" font-size="17">idea</text>
+    <text x="132" y="112" fill="#e2f4f0" font-family="Consolas, monospace" font-size="17">= understand(problem)</text>
+    <text x="24" y="147" fill="#67828b" font-family="Consolas, monospace" font-size="17">03</text>
+    <text x="84" y="147" fill="#d9e8a9" font-family="Consolas, monospace" font-size="17">code</text>
+    <text x="132" y="147" fill="#e2f4f0" font-family="Consolas, monospace" font-size="17">= implement(idea)</text>
+    <text x="24" y="182" fill="#67828b" font-family="Consolas, monospace" font-size="17">04</text>
+    <text x="84" y="182" fill="#9de8c9" font-family="Consolas, monospace" font-size="17">return</text>
+    <text x="152" y="182" fill="#e2f4f0" font-family="Consolas, monospace" font-size="17">code</text>
+    <rect x="24" y="202" width="343" height="2" rx="1" fill="url(#accent)" opacity="0.55"/>
+  </g>
+</svg>
