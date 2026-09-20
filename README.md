@@ -15,17 +15,17 @@ Readable Python solutions to [HackerRank](https://www.hackerrank.com/profile/sin
 
 ## Challenge index
 
-| ID | Challenge | Category | Difficulty | Code |
-| --- | --- | --- | --- | --- |
-| 001 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Algorithms | Easy | [Python solution](algorithms/easy/between-two-sets/solution.py) |
-| 002 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Algorithms | Easy | [Python solution](algorithms/easy/breaking-best-and-worst-records/solution.py) |
+| ID | Challenge | Category | Difficulty | Problem | Code |
+| --- | --- | --- | --- | --- | --- |
+| 001 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Algorithms | Easy | [Summary](algorithms/easy/between-two-sets/problem.md) | [Python solution](algorithms/easy/between-two-sets/solution.py) |
+| 002 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Algorithms | Easy | [Summary](algorithms/easy/breaking-best-and-worst-records/problem.md) | [Python solution](algorithms/easy/breaking-best-and-worst-records/solution.py) |
 
 ## Approach notes
 
 - **Between Two Sets:** Find the least common multiple of the first array and the greatest common divisor of the second. Count the multiples of the first value that divide the second.
 - **Breaking the Records:** Keep track of the highest and lowest score seen so far, updating the two counters whenever a new record appears.
 
-Each challenge title opens the original HackerRank problem. The solution link opens the corresponding code file in this repository.
+Each challenge title opens the original HackerRank problem. The summary and solution links open the corresponding files in this repository.
 
 ## About the author
 
