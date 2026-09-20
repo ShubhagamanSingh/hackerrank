@@ -15,21 +15,21 @@ Readable Python solutions to [HackerRank](https://www.hackerrank.com/profile/sin
 
 ## Challenge index
 
-| ID | Challenge | Category | Difficulty | Problem | Code |
-| --- | --- | --- | --- | --- | --- |
-| 001 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Algorithms | Easy | [Summary](algorithms/easy/between-two-sets/problem.md) | [Python solution](algorithms/easy/between-two-sets/solution.py) |
-| 002 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Algorithms | Easy | [Summary](algorithms/easy/breaking-best-and-worst-records/problem.md) | [Python solution](algorithms/easy/breaking-best-and-worst-records/solution.py) |
-| 003 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | Algorithms | Medium | [Summary](algorithms/medium/magic-square-forming/problem.md) | [Python solution](algorithms/medium/magic-square-forming/solution.py) |
-| 004 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | Algorithms | Easy | [Summary](algorithms/easy/picking-numbers/problem.md) | [Python solution](algorithms/easy/picking-numbers/solution.py) |
-| 005 | [N Puzzle](https://www.hackerrank.com/challenges/n-puzzle/problem) | Artificial Intelligence | Hard | [Summary](artificial-intelligence/hard/n-puzzle/problem.md) | [Python solution](artificial-intelligence/hard/n-puzzle/solution.py) |
-| 006 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Data Structures | Hard | [Summary](data-structures/hard/crush/problem.md) | [Python solution](data-structures/hard/crush/solution.py) |
+| ID | Challenge | Category | Difficulty | Code |
+| --- | --- | --- | --- | --- |
+| 001 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | Algorithms | Easy | [Python solution](algorithms/easy/between-two-sets/solution.py) |
+| 002 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | Algorithms | Easy | [Python solution](algorithms/easy/breaking-best-and-worst-records/solution.py) |
+| 003 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | Algorithms | Medium | [Python solution](algorithms/medium/magic-square-forming/solution.py) |
+| 004 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | Algorithms | Easy | [Python solution](algorithms/easy/picking-numbers/solution.py) |
+| 005 | [N Puzzle](https://www.hackerrank.com/challenges/n-puzzle/problem) | Artificial Intelligence | Hard | [Python solution](artificial-intelligence/hard/n-puzzle/solution.py) |
+| 006 | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem) | Data Structures | Hard | [Python solution](data-structures/hard/crush/solution.py) |
 
 ## Approach notes
 
 - **Between Two Sets:** Find the least common multiple of the first array and the greatest common divisor of the second. Count the multiples of the first value that divide the second.
 - **Breaking the Records:** Keep track of the highest and lowest score seen so far, updating the two counters whenever a new record appears.
 
-Each challenge title opens the original HackerRank problem. The summary and solution links open the corresponding files in this repository.
+Each challenge title opens the original HackerRank problem. The solution link opens the corresponding code file in this repository.
 
 ## About the author
 
