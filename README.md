@@ -4,9 +4,9 @@
 
 # HackerRank Solutions
 
-Readable solutions to [HackerRank](https://www.hackerrank.com/profile/singhshubhagaman) challenges, with direct links to each problem and short notes on the approach. Browse by category or language to find a challenge quickly.
+Readable solutions to [HackerRank](https://www.hackerrank.com/profile/singhshubhagaman) challenges, with direct links to each problem. Browse by category or language to find a challenge quickly.
 
-**Jump to:** [Challenge index](#challenge-index) · [Solutions by language](#solutions-by-language) · [Approach notes](#approach-notes) · [Connect](#connect)
+**Jump to:** [Challenge index](#challenge-index) · [Solutions by language](#solutions-by-language) · [Connect](#connect)
 
 ## Browse by category
 
@@ -41,11 +41,6 @@ Each challenge title opens the original HackerRank problem. The solution link op
 - [Forming a Magic Square](algorithms/medium/magic-square-forming/) · [Code](algorithms/medium/magic-square-forming/solution.py)
 - [N Puzzle](artificial-intelligence/hard/n-puzzle/) · [Code](artificial-intelligence/hard/n-puzzle/solution.py)
 - [Array Manipulation](data-structures/hard/crush/) · [Code](data-structures/hard/crush/solution.py)
-
-## Approach notes
-
-- **Between Two Sets:** Find the least common multiple of the first array and the greatest common divisor of the second. Count the multiples of the first value that divide the second.
-- **Breaking the Records:** Keep track of the highest and lowest score seen so far, updating the two counters whenever a new record appears.
 
 ## About the author
 
