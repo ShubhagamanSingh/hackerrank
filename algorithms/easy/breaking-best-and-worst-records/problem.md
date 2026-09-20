@@ -2,8 +2,8 @@
 
 [Read the full problem on HackerRank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 
-**Category:** Algorithms  
-**Difficulty:** Easy
+- **Category:** Algorithms
+- **Difficulty:** Easy
 
 ## Problem in your own words
 
