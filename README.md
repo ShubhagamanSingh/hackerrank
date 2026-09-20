@@ -49,7 +49,11 @@ Each challenge title opens the original HackerRank problem. The solution link op
 
 ## About the author
 
+<img align="right" src="https://shubhagaman.in/images/mpp.jpg" alt="Portrait of Shubhagaman Singh" width="160" />
+
 I'm **Shubhagaman Singh**, a Junior Research Assistant at Sharda University. I build AI, full-stack, mobile, and IoT projects, and I use coding challenges to keep sharpening my problem-solving skills. You can see more of my work on my [portfolio](https://shubhagaman.in/).
+
+<br clear="right" />
 
 ## Connect
 
