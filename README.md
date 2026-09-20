@@ -57,3 +57,7 @@ I created this repository to organize the HackerRank challenges I solve and shar
 ## Connect
 
 [Portfolio](https://shubhagaman.in/) · [GitHub](https://github.com/ShubhagamanSingh) · [LinkedIn](https://www.linkedin.com/in/shubhagaman-singh) · [ORCID](https://orcid.org/0009-0006-5021-2337) · [X](https://twitter.com/Shubhagaman_) · [Instagram](https://instagram.com/shubhagaman_singh) · [Email](mailto:shubhagamansingh@gmail.com)
+
+## Contributing and license
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community expectations. The original code and repository assets are available under the [MIT license](LICENSE). HackerRank challenge statements remain with their respective rights holders and are linked from the index.
